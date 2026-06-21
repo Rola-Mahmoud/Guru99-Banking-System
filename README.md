@@ -14,16 +14,31 @@ This repository contains the quality assurance deliverables produced by **Team 1
 
 ## Project Structure
 
-```
-Team_1_Questionnaire.xlsx       # Initial requirements questionnaire
-Team_1_TCs_V1.xlsx              # Test Cases — Version 1
-Team_1_TCs_V2.xlsx              # Test Cases — Version 2
-Team_1_TCs_V3.xlsx              # Test Cases — Version 3
-Team_1_TCs_V4.xlsx              # Test Cases — Version 4 (final)
-Team_1_Bugs_V1.xlsx             # Bug Reports — Version 1
-Team_1_Bugs_V2.xlsx             # Bug Reports — Version 2
-Team_1_Bugs_V3.xlsx             # Bug Reports — Version 3
-Team_1_Bugs_V4.xlsx             # Bug Reports — Version 4 (final)
+
+
+```text
+Guru99-Banking-System-Testing
+│
+├── 01_Requirements
+│   ├── Team_1_Questionnaire.xlsx
+│   ├── SRS_v1.docx
+│   ├── SRS_v2.docx
+│   ├── SRS_v3.docx
+│   └── SRS_v4.docx
+│
+├── 02_Test_Cases
+│   ├── Team_1_TCs_V1.xlsx
+│   ├── Team_1_TCs_V2.xlsx
+│   ├── Team_1_TCs_V3.xlsx
+│   └── Team_1_TCs_V4.xlsx
+│
+├── 03_Bug_Reports
+│   ├── Team_1_Bugs_V1.xlsx
+│   ├── Team_1_Bugs_V2.xlsx
+│   ├── Team_1_Bugs_V3.xlsx
+│   └── Team_1_Bugs_V4.xlsx
+│
+└── README.md
 ```
 
 ---
