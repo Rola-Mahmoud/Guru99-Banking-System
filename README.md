@@ -6,10 +6,7 @@
 This repository contains the quality assurance deliverables produced by **Team 1** for the **Guru99 Banking Web Application** (`demo.guru99.com`). The project covers manual test case design, execution, and bug reporting across all functional modules of the banking system, spanning both **Manager** and **Customer** roles.
 
 ## Demo
-
-
-
-
+[Demo on linkedin](https://www.linkedin.com/posts/rola-mahmoud_manualtesting-qa-softwaretesting-activity-7474585678970859520-COjf?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFGy024ByGzpiKwvLDyDZNqotihDCZvomb0)
 ---
 
 ## Project Structure
